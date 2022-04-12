@@ -1,0 +1,66 @@
+
+/* display-Inline block Tag CSS */
+.display-block{
+    background-color: rgb(46, 204, 113);
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+}
+
+h1{background: rgb(110, 198, 21);}
+
+div{background: rgb(10, 181, 10);}
+
+img{
+    background: rgb(110, 198, 21);
+    
+}
+
+p{background: rgb(110, 198, 21);}
+
+br{background: rgb(110, 198, 21);}
+
+hr{background: rgb(110, 198, 21);}
+
+
+
+/* display-inline Tag CSS */
+.display-inline{
+    background-color: rgb(46, 204, 113);
+    color: rgb(52, 73, 94);
+    font-size: 50px;
+    text-align: center;
+}
+
+.click{
+    
+    color: rgb(189, 195, 199);
+    text-align: center;
+    font-size: 40px;
+}
+
+a{background: red;}
+
+span{background: rgb(27, 187, 182);}
+
+i{background: red;}
+
+b{background: rgb(27, 187, 182);}
+
+u{background: red;}
+
+del{background: rgb(27, 187, 182);}
+
+html{background: white;}
+
+head{background: red;}
+
+title{background: rgb(27, 187, 182);}
+
+body{background: white;}
+
+td{background: red;}
+
+th{background: rgb(27, 187, 182);}
+
+tr{background: red;}
